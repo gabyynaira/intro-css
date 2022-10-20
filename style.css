@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2? family= Inspiration & family= Spectral:wght@200 & display=swap');
+
+
+h1{
+    color: white;
+    background-color: black;
+width: 900px;text-align: center;
+font-family:  'Spectral', serif;
+  }
+    
+    
+    .primer-span{
+        color: red;
+        background-color: blue;
+    }
+
+    .segundo-parrafo{
+        font-size: 30px;
+        font-weight: bold;background-color: cornflowerblue;
+    width: 350px;
+    height: 250px;
+    }
+
+.parrafo-contacto{
+ font-size: 20px;
+font-weight: 500;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.imagen{
+    width: 400px;height: 300px;
+}
+
+.anchor{
+    text-decoration: none;
+  font-style: italic;
+    font-weight: bold;
+    color:blue;
+}
+
+.fondo{
+    width: 100%;
+    height: 500px;
+    background-image: url(
+        ./paisaje.jpg
+    );background-repeat: no-repeat;
+    background-size: cover;
+}
+.texto-img {
+    background-color: transparent;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
